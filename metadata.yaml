@@ -1,0 +1,35 @@
+_repo: Christian-Mysticism_14596
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Inge, William Ralph
+    aliases:
+    - Inge, Dean (William Ralph)
+    - Inge, W. R. (William Ralph)
+    birthdate: 1860
+    deathdate: 1954
+    gutenberg_agent_id: '1534'
+    url: http://www.gutenberg.org/2009/agents/1534
+    wikipedia: http://en.wikipedia.org/wiki/William_Ralph_Inge
+description: First delivered as a series of eight lectures at Oxford University, this
+  1899 volume in defense of the Christian faith, "to confute all heretics and schismatics,"
+  is based on nature and reason rather than signs and wonders. Mysticism is defined
+  here as the realization--both mental and physical--of the presence of God. Included
+  here are chapters, "The Mystical Element in the Bible," "Practical and Devotional
+  Mysticism," "Nature-Mysticism and Symbolism," and more.
+gutenberg_issued: '2005-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14596'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Mysticism'
+title: Christian Mysticism
+url: http://www.gutenberg.org/ebooks/14596
